@@ -146,6 +146,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnimkansong&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nnimkansong&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nnimkansong&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nnimkansong" alt="GitHub Streak" width="350" />
+</p>
