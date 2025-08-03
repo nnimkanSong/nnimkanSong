@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nathakon Nimkanchana</h1>
-<h3 align="center">Web Developer | Front-end | Back-end | Full-Stack Developer</h3>
+<h1 align="left">
+  Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fc/512.gif" alt="👋" width="40" height="40">
+</picture>, I'm Nathakon Nimkanchana
+</h1>
+
+
+<h3 align="left">Web Developer | Front-end | Back-end | Full-Stack Developer</h3>
 
 ---
 
