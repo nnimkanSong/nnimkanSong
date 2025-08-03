@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Social Media
 
 <p align="left">
   <a href="https://linkedin.com/in/nathakon-nimkanchana" target="_blank">
