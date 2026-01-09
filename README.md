@@ -134,12 +134,3 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nnimkansong&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="300" />
-  &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=nnimkansong&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
-  &nbsp;&nbsp;&nbsp;
